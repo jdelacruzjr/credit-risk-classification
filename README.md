@@ -43,4 +43,5 @@ While the performance of these models does depend on the problem we are trying t
 ### Copyright
 
 Adobe Stock Images © 2023 Adobe. All Rights Reserved.
+
 Trilogy Education Services © 2023. All Rights Reserved.
